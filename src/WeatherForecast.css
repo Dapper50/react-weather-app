@@ -1,0 +1,14 @@
+.WeatherForecast {
+  text-align: center;
+}
+.WeatherForecast-temperature-min {
+  opacity: 0.6;
+  margin-left: 5px;
+}
+.newForecast {
+  border: 1px solid black;
+  padding: 16px;
+  margin-top: 40px;
+  border-radius: 30px;
+  background-color: white;
+}
